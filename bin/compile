@@ -1,0 +1,5 @@
+#!/bin/bash
+./bin/clean
+
+./gradlew compileJava
+./gradlew compileTestJava

@@ -1,0 +1,4 @@
+#!/bin/bash
+./gradlew installDist
+
+./build/install/hugb_hello_world/bin/hugb_hello_world
